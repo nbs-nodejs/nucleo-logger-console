@@ -1,0 +1,3 @@
+@nucleo-nodejs:registry=https://code.nbs.dev/api/v4/packages/npm/
+//code.nbs.dev/api/v4/packages/npm/:_authToken=<GROUP_DEPLOY_TOKEN>
+//code.nbs.dev/api/v4/projects/39/packages/npm/:_authToken=<GROUP_DEPLOY_TOKEN>
