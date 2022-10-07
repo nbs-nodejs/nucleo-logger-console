@@ -1,4 +1,4 @@
-# @nucleo-nodejs/console-logger
+# @nbsdev/nucleo-console-logger
 
 Console Logger for Node.js. Written in TypeScript. 
 
