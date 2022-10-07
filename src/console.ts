@@ -1,5 +1,5 @@
 import winston, { format } from "winston";
-import { Logger } from "@nucleo-nodejs/logger";
+import { Logger } from "@nbsdev/nucleo-logger";
 
 const SCOPE_MAX_LEN = 18;
 
