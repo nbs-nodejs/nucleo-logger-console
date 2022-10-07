@@ -1,6 +1,6 @@
 {
-  "name": "@nucleo-nodejs/console-logger",
-  "version": "0.0.1",
+  "name": "@nbsdev/nucleo-console-logger",
+  "version": "0.1.0",
   "description": "Console Logger for Node.js. Written in TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
